@@ -1,10 +1,3 @@
-/*
-
-Blaster Template
-
-http://www.templatemo.com/tm-472-blaster
-
-*/
 
 body
 {
@@ -365,6 +358,7 @@ footer {
 }
 #copyright p {
   padding-top: 20px;
+  font-szie: 20px;
 }
 #copyright a {
 	color: #fff;
